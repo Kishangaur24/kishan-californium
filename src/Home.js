@@ -22,7 +22,7 @@ function Home() {
             </figure>
           </div>
           <div className={home.heroText}>
-            <h2>Harsh Kajale</h2>
+            <h2>Kishan Gaur</h2>
             <p>
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
